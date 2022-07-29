@@ -15,7 +15,19 @@ $(window).scroll(function(){
   
     if (scroll >= 100) sticky.addClass('fixed').css({backgroundColor: '#4a5568'});
     else sticky.removeClass('fixed').css({backgroundColor: 'inherit'});
-  });
+});
+
+
+
+
+  
+
+
+
+
+
+
+
 
 
 
